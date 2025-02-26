@@ -16,8 +16,11 @@ Start with the fundamentals before moving to projects.
 
 ### 🔹 2️⃣ CSS Selectors
 
-- Universal, Type, Class & ID Selectors
-- Attribute & Pseudo Selectors
+- *Basic* --> Universal Selectors, Element or Type Selectors, Class Selectors , ID Selectors, & Attribute Selectors.
+
+- *Some Complex Selectors* --> Grouping Selectors, Pseudo Selectors, Pseudo Element Selectors, Decendent Selector (Space), Sbling Selector & Compound Selectors.
+
+### 🔹 CSS Specificity Concept
 
 ### 🔹 3️⃣ Box Model
 
