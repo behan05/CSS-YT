@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p {
+  font-size: 18px;
+  color: red;
+  line-height: 1.5;
+}
+
+.btn {
+  background-color: blue;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#header {
+    background-color: #000;
+    color: #ccc;
+    text-align: center;
+    padding: 2rem;
+    font-size: 2rem;
+}
+
+input[type="text"] {
+    padding: 2rem;
+}
+
+a[href="https://github.com/behan05"] {
+    color: red;
+}
