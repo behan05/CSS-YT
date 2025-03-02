@@ -2,9 +2,19 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  padding: 1rem 0;
 }
 
-p {
+body {
+  background-color: #000;
+  color: #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* p {
   font-size: 18px;
   color: red;
   line-height: 1.5;
@@ -20,17 +30,70 @@ p {
 }
 
 #header {
-    background-color: #000;
-    color: #ccc;
-    text-align: center;
-    padding: 2rem;
-    font-size: 2rem;
+  background-color: #000;
+  color: #ccc;
+  text-align: center;
+  padding: 2rem;
+  font-size: 2rem;
 }
 
 input[type="text"] {
-    padding: 2rem;
+  padding: 2rem;
 }
 
-a[href="https://github.com/behan05"] {
-    color: red;
+a[href="https://github.com/behan05"]
+{
+  color: red;
+} */
+
+h1,
+h2,
+p {
+  color: blue;
+}
+
+button {
+  padding: 1rem 2rem;
+  color: #000;
+  border: none;
+  border-radius: 8px;
+  background-color: #ccc;
+}
+
+button:hover {
+  background-color: #b17d7d;
+  color: lightseagreen;
+}
+
+input:focus {
+  border: none;
+  border-radius: 12px;
+  background-color: #ccc;
+  color: #000;
+}
+
+input::placeholder {
+  color: red;
+}
+
+/* p::before {
+  content:"Hello " ;
+  color: #ccc;
+} */
+
+
+/* div p {
+  color: red;
+} */
+
+/* h1 + p {
+  color: red;
+} */
+
+/* h1 ~ p {
+  color: #ccc;
+} */
+
+div.container p.para {
+  color: #fff;
 }
