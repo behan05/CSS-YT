@@ -160,7 +160,7 @@ Got suggestions or improvements? Open an issue or submit a pull request.
 ---
 ### 📌 Stay Connected
 
-📺 **YouTube**: [DevVibes](https://www.youtube.com/@devVibes)  
+📺 **YouTube**: [DevVibes](https://www.youtube.com/@DevVibesYT)  
 📸 **Instagram**: [@devVibes](https://www.instagram.com/devVibes05)  
 💬 **WhatsApp Channel**: [Join Here](https://whatsapp.com/channel/0029Vb4sDxX1Hsq0YGrSUU06)
 
