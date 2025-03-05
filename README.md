@@ -25,7 +25,7 @@ Master the fundamentals before diving into projects.
 
 #### **Some Complex Selectors**  
 - Grouping Selector (`h1, h2, p`)  
-- Pseudo-class Selectors (`:hover`, `:focus`, `:nth-child()`)  
+- Pseudo-class Selectors (`:hover`, `:focus`)  
 - Pseudo-element Selectors (`::before`, `::after`)  
 - Descendant Selector (`div p`)  
 - Child Selector (`div > p`)  
